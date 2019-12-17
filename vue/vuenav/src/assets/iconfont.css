@@ -1,0 +1,33 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1572953370567'); /* IE9 */
+  src: url('iconfont.eot?t=1572953370567#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAR0AAsAAAAACSAAAAQnAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDGgqFSIRQATYCJAMUCwwABCAFhG0HVxvTBxFVnBHJfhTGMbFQmG/1szfy9miise9DPv/vlfcF43UySzlTAZnWqyqo5K+efkkiTLfrvlsAI9BYy/4vXddyFSZC3ZK100//R3K3cy8/LfA8TqMUQoJD8j/HTJfPB5Z/lS5ZRRvtDYezAhpY9EV7JA74juTE/Iaxi8t4HAjAgBcRIAVFFQ3QodB2EQAZ1L9vd+hiVrQER3AZTs6lDDIfLC5qLnUJMM/9ffJaHNEBhU1DO1jTp7AXcp6pz5bS4n9RJxsBWX9uAMxVQAMiADBAOuR6G0D72QjQeCQvg698dRF4tvT/f56ptnS2//CAYGFQIBpoWhPE5uQYeKaaLCDwbDELKHi2xA0aOyqD8puhZe3tBoADgNsAccTYgFuyGAwOZ9Lr7R1t7Wk6wMwwptj5DFV3uZ+7TtZeKzp/xUe8mrtkB89j4zXh+nXL1auNV64IG09aTzWfEI9HqapVaZJEuT1EiTMpCiFW1WjTLA9NbZA2EmI9o2I2K6qzpRF0FrFu4htlkWtIswg9nFWVHy7LHCdJ5hGKMtQi6BYIOcbGOiI8QuK6iAiK0rV3hJEXsJF5SuJsv5FWnY1GYmhnR9t2N8o8JM6gmIna7uI1v3XXiy9c9V19perQKevJpuPiCfbz/Vc/gkK7uLnUVJw5Y5pc3MLDQT9e3Rcyfyl/OoFUDuxbS3SRvZxU6gTlqfffB+Myx2Vhunfz7/B3uENLxtlr5nRDtzkae+0cLcA5oeeLKSfHjtLpv23i+j2JLQmeddtHFCXu6vWldaUd9WR9g0PPQSVT6pObe/nqlhfsqa++XOCRsDzhdH7N5XwPuClNlqaBTbuaep/7Lhald9dvFD83ecyjDQ32vfaM3dvU267Xo3mjdIZvGzteGpF/ZNKx+QUe+J+djK1ebXbFzJyvP6qf32RfPGyAy4CyQznDcm55h83Xh+nng9LD5pqSEpaF+ho32sX+UoHuwzhoj6BOr90AQGdQ5wCg3qE4XUOJv8omYxead3W1y/iqM16viZvPp7ghK5pRP6dDASP7MWQ1BxhZodnYir2mVIyx8vwCaQpg0IPAfxh09NuPnq9dDxA6fAgULU+g6QQgGWwEsIwSQEMnGwzCna82ciLGSG9AmE8AhL0voNg6BTR730gG+wMss3/QsM8YDIRsb2kUlHK1FzSKHuwHlI47Mhy68hovmD8bI1GFi3+ghDIBaZQkC2fsUPo4El55pkpAwi2cwNOwaRh64QqdRoVqv4tjynujyHE7WMknkKGQB6wPoOSwDtnj1Sr18xco99QwpKSvJPyARFAuDlKRpAbyrO1q9Z3L8uAll1GK8DYiWAucoBs1epaBPn9dBTkqUrRI93ZiNIzqaqPx9e01ngMw0P4Am5VJs3Nof+8FQ9jY5onKrAUTrSPpbuZMeySWwQAA') format('woff2'),
+  url('iconfont.woff?t=1572953370567') format('woff'),
+  url('iconfont.ttf?t=1572953370567') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1572953370567#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-address:before {
+  content: "\e697";
+}
+
+.icon-bluetoothoff:before {
+  content: "\e698";
+}
+
+.icon-bluetoothon:before {
+  content: "\e699";
+}
+
+.icon-camera:before {
+  content: "\e69a";
+}
+
